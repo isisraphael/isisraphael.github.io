@@ -5,9 +5,6 @@
     <ul class="link">
       <a id="him" class="link" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Him</h2></a>
     </ul>
-  <div class="headerwrap"></div>
-  <div class="navheadcontainer">
-    <div class="sectiontwo">
       <div class="medcontain">
         <h1 class="title">monk time</h1>
           <p class="subheader">ora et labora</p></div>
@@ -45,28 +42,6 @@ IMG.displayed3 {
   margin-left: auto;
   margin-right: auto;
 }
-.headerwrap{
-  justify-content: space-between;
-  align-items: center;
-  display: flex;
-}
-.link {
-  margin-top: 0;
-  padding-left: 0;
-  list-style: none;
-  font-weight: 600;
-  display: flex;
-  float: right;
-  align-items: center;
-  font-size: 15px;
-  margin-right: 5%;
-}
-.link {
-  padding: 30px 0;
-  margin-left: 1.25em;
-  display: inline-block;
-  position: relative;
-  padding: 12px 0 10px;
 }
 .navheadcontainer {
   max-width: 1200px;
@@ -120,32 +95,4 @@ justify-content: space-between;
   margin-right: auto;
   padding-left: 24px;
   padding-right: 24px;
-}
-.listgrid {
-  grid-row-gap: 40px;
-  grid-template-rows: auto;
-  grid-template-columns: 1fr;
-  grid-auto-columns: 1fr;
-  grid-auto-flow: row;
-  align-content: stretch;
-  margin-top: 59px;
-  display: grid;
-}
-.cardone {
-  display: flex;
-  background-color: #fff;
-  border-radius: 20px;
-  position: relative;
-  overflow: hidden;
-  box-shadow: 0 20px 34px lightgrey;
-}
-.contentcardone {
-  padding: 46px 47px 46px 48px;
-}
-.cardlink {
-  color: #dbd4d3;
-  margin-bottom: 12px;
-  text-decoration: none;
-  max-width: 100%;
-  display: inline-block;
 }
