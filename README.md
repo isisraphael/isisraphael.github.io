@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
@@ -18,7 +18,7 @@
   <div class="navheadcontainer">
     <div class="sectiontwo">
       <div class="medcontain">
-        <h1 class="title" style=font-family:andalus>monk time</h1>
+        <h1 class="title">monk time</h1>
           <p class="subheader">hello welcome to my beautiful site… i love my life</p></div>
  <!--     <div class="containerclassic">
       <div class="listclassic">
@@ -38,7 +38,7 @@
 <style>
 body {
   color: #4e4b66;
-  font-family:messinasans,sans-serif;
+  font-family:andalus;
   font-size: 18px;
   line-height: 1.667em;
 }
