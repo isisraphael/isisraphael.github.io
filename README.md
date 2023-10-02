@@ -2,10 +2,10 @@
 <html>
 <body>
   <div class="header">
-    <ul class="navlinks">
-      <a id="him" class="navlink" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: blue;">Him</h2></a>
+    <ul class="links">
+      <a id="him" class="link" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: blue;">Him</h2></a>
     </ul>
-  <div class="headerwrap"></div></div>
+  <div class="headerwrap"></div>
   <div class="navheadcontainer">
     <div class="sectiontwo">
       <div class="medcontain">
@@ -38,7 +38,7 @@ IMG.displayed {
   align-items: center;
   display: flex;
 }
-.navlinks {
+.links {
   margin-top: 0;
   padding-left: 0;
   list-style: none;
@@ -49,7 +49,7 @@ IMG.displayed {
   font-size: 15px;
   margin-right: 5%;
 }
-.navlink {
+.link {
   padding: 30px 0;
   margin-left: 1.25em;
   display: inline-block;
