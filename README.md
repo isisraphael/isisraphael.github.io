@@ -8,7 +8,7 @@
 <body>
   <div class="header">
     <ul class="navlinks">
-      <a id="him" class="navlink" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Home</h2></a>
+      <a id="him" class="navlink" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: blue;">Home</h2></a>
     </ul>
   <div class="headerwrap"></div></div>
   <div class="navheadcontainer">
@@ -37,7 +37,7 @@ body {
   line-height: 1.667em;
 }
 .header {
-  background-color: #fff;
+  background-color: #b9b4b3;
   padding:24px;
   position: relative;
   margin-top: 0;
