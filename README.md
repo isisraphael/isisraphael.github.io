@@ -8,7 +8,7 @@
 <body>
   <div class="header">
     <ul class="navlinks">
-      <a id="him" class="navlink" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: blue;">Home</h2></a>
+      <a id="him" class="navlink" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: blue;">Him</h2></a>
     </ul>
   <div class="headerwrap"></div></div>
   <div class="navheadcontainer">
@@ -17,19 +17,6 @@
         <h1 class="title">monk time</h1>
           <p class="subheader">hello welcome to my beautiful site… i love my life</p></div>
           <img scr="<img width="266" alt="Screenshot 2023-10-02 at 4 59 44 AM" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
- <!--     <div class="containerclassic">
-      <div class="listclassic">
-      <div class="listgrid">
-      <div class="cardone">
-      <div class="contentcardone">
-      <a href="https://btnwebdesignclub.github.io" target="_blank" class="cardlink"><h2 class="titlecard">Week one Powerpoint</h2></a>
-      <p>description</p>
-      <div class="dividerone"></div>
-      <div class="caardonedetails"></div>
-      </div> 
-    </div>
-  </div>
-</div> -->
 <style>
 body {
   color: #4e4b66;
@@ -150,40 +137,3 @@ justify-content: space-between;
   max-width: 100%;
   display: inline-block;
 }
-
-.a {
-  background-color: black;
-  font-family:messinasans,sans-serif;
-  text-decoration: none;
-}
-.titlecard {
-  margin-top: 0;
-  margin-bottom: 0;
-  transition: color .35s;
-}
-.h2 {
-  color: #14142b;
-  letter-spacing: -.02em;
-  margin-top: 0;
-  margin-bottom: 16px;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.36;
-}
-.p {
-  color: #4e4b66;
-  margin-bottom: 20px;
-  margin-top: 0;
-}
-.dividerone {
-  margin-top: 39px;
-  margin-bottom: 17px;
-  width: 100%;
-  height: 1px;
-  background-color: #cfcfdb;
-}
-.cardoneedetails {
-  display: flex;
-}
-</style>
-
