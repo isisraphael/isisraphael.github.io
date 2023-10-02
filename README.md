@@ -3,7 +3,7 @@
 <body>
   <div class="header">
     <ul class="link">
-      <a id="him" class="link" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: blue;">Him</h2></a>
+      <a id="him" class="link" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Him</h2></a>
     </ul>
   <div class="headerwrap"></div>
   <div class="navheadcontainer">
@@ -31,7 +31,7 @@ IMG.displayed {
   padding:24px;
   position: relative;
   margin-top: 0;
-  max-width: 1500px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
