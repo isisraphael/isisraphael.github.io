@@ -2,7 +2,7 @@
 <html>
 <body>
   <div class="header">
-    <ul class="links">
+    <ul class="link">
       <a id="him" class="link" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: blue;">Him</h2></a>
     </ul>
   <div class="headerwrap"></div>
@@ -38,7 +38,7 @@ IMG.displayed {
   align-items: center;
   display: flex;
 }
-.links {
+.link {
   margin-top: 0;
   padding-left: 0;
   list-style: none;
