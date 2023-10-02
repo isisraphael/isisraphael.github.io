@@ -149,7 +149,7 @@ justify-content: space-between;
   padding: 46px 47px 46px 48px;
 }
 .cardlink {
-  color: #000000;
+  color: #dbd4d3;
   margin-bottom: 12px;
   text-decoration: none;
   max-width: 100%;
@@ -192,8 +192,3 @@ justify-content: space-between;
 }
 </style>
 
-
-</div>
-</div>
-</body>
-</html>
