@@ -12,6 +12,8 @@
         <h1 class="title">monk time</h1>
           <p class="subheader">ora et labora</p></div>
           <img class=displayed width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
+          <img class=displayed width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
+          <img class=displayed width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
 <style>
 IMG.displayed {
     display: block;
