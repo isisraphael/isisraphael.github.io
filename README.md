@@ -16,6 +16,7 @@
       <div class="medcontain">
         <h1 class="title">monk time</h1>
           <p class="subheader">hello welcome to my beautiful site… i love my life</p></div>
+          <img scr="<img width="266" alt="Screenshot 2023-10-02 at 4 59 44 AM" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
  <!--     <div class="containerclassic">
       <div class="listclassic">
       <div class="listgrid">
