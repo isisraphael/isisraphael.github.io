@@ -33,7 +33,166 @@
     </div>
   </div>
 </div> -->
-</div>
+</body>
+</html>
+<style>
+body {
+  color: #4e4b66;
+  font-family:messinasans,sans-serif;
+  font-size: 18px;
+  line-height: 1.667em;
+}
+.header {
+  background-color: #fff;
+  padding:24px;
+  position: relative;
+  margin-top: 0;
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.headerwrap{
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+.navlinks {
+  margin-top: 0;
+  padding-left: 0;
+  list-style: none;
+  font-weight: 600;
+  display: flex;
+  float: right;
+  align-items: center;
+  font-size: 15px;
+  margin-right: 5%;
+}
+.navlink {
+  padding: 30px 0;
+  margin-left: 1.25em;
+  display: inline-block;
+  position: relative;
+  padding: 12px 0 10px;
+}
+.navheadcontainer {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.headerwrap{
+justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+.sectiontwo {
+  margin-bottom: 53px;
+  padding-top: 8%;
+  padding-bottom: 100px;
+}
+.medcontain {
+  margin-bottom: 24px;
+  max-width: 727px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+  text-align: center
+}
+.title {
+  text-align: center;
+  letter-spacing: .01em;
+  font-size: 74px;
+  font-weight: 700;
+  line-height: 1.115em;
+  margin-top: 0;
+  margin-bottom: 24px;
+  color: #14142b;
+}
+.subheader {
+  max-width: 520px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.p {
+  color: #4e4b66;
+  margin-bottom: 20px;
+  margin-top:0px;
+  }
+.containerclassic {
+    max-width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.listgrid {
+  grid-row-gap: 40px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: row;
+  align-content: stretch;
+  margin-top: 59px;
+  display: grid;
+}
+.cardone {
+  display: flex;
+  background-color: #fff;
+  border-radius: 20px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 20px 34px lightgrey;
+}
+.contentcardone {
+  padding: 46px 47px 46px 48px;
+}
+.cardlink {
+  color: #000000;
+  margin-bottom: 12px;
+  text-decoration: none;
+  max-width: 100%;
+  display: inline-block;
+}
+
+.a {
+  background-color: black;
+  font-family:messinasans,sans-serif;
+  text-decoration: none;
+}
+.titlecard {
+  margin-top: 0;
+  margin-bottom: 0;
+  transition: color .35s;
+}
+.h2 {
+  color: #14142b;
+  letter-spacing: -.02em;
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.36;
+}
+.p {
+  color: #4e4b66;
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+.dividerone {
+  margin-top: 39px;
+  margin-bottom: 17px;
+  width: 100%;
+  height: 1px;
+  background-color: #cfcfdb;
+}
+.cardoneedetails {
+  display: flex;
+}
+</style>
+
+
 </div>
 </div>
 </body>
