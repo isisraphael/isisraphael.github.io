@@ -133,7 +133,7 @@ justify-content: space-between;
 }
 .cardone {
   display: flex;
-  background-color: #fff;
+  background-color: #99a0bb;
   border-radius: 20px;
   position: relative;
   overflow: hidden;
