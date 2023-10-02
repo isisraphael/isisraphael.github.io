@@ -8,11 +8,7 @@
 <body>
   <div class="header">
     <ul class="navlinks">
-      <a id="Home" class="navlink" href="https://btnwebdesignclub.github.io/" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Home</h2></a>
-      <a id="Lessons" class="navlink" href="https://btnwebdesignclub.github.io/lessons" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Lessons</h2></a>
-      <a id="Resources" class="navlink" href="https://btnwebdesignclub.github.io/resources" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Resources</h2></a>
-      <a id="Examples" class="navlink" href="https://btnwebdesignclub.github.io/examples" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Examples</h2></a>
-      <a id="Contact" class="navlink" href="https://btnwebdesignclub.github.io/contact" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Contact Us</h2></a>
+      <a id="him" class="navlink" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Home</h2></a>
     </ul>
   <div class="headerwrap"></div></div>
   <div class="navheadcontainer">
@@ -33,8 +29,6 @@
     </div>
   </div>
 </div> -->
-</body>
-</html>
 <style>
 body {
   color: #4e4b66;
