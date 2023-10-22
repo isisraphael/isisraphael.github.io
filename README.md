@@ -2,34 +2,34 @@
 <html>
 <body>
   <div class="header">
-    <ul class="link">
-      <a id="him" class="link" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Him</h2></a>
-    </ul>
+	<ul class="link">
+  	<a id="him" class="link" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Him</h2></a>
+	</ul>
   <div class="headerwrap"></div>
   <div class="navheadcontainer">
-    <div class="sectiontwo">
-      <div class="numberone">
-        <h1 class="title">monk time</h1>
-          <p class="subheader">ora et labora</p></div>
-          <img class="displayed" width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
-          <img class="displayed2" width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
-          <img class="displayed3"  width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
+	<div class="numbertwo">
+  	<div class="numberone">
+    	<h1 class="title">monk time</h1>
+      	<p class="subhead">ora et labora</p></div>
+      	<img class="displayed" width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
+      	<img class="displayed2" width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
+      	<img class="displayed3"  width="266" alt="loading monk" src="https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e">
 <style>
   IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: dotted;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: dotted;
 }
 IMG.displayed2 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+	display: block;
+	margin-left: auto;
+	margin-right: auto
   }
 IMG.displayed3 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
+	display: block;
+	margin-left: auto;
+	margin-right: auto
 }
 .body {
   color: #4e4b66;
@@ -81,7 +81,7 @@ justify-content: space-between;
   align-items: center;
   display: flex;
 }
-.sectiontwo {
+.numbertwo {
   margin-bottom: 53px;
   padding-top: 8%;
   padding-bottom: 100px;
@@ -105,7 +105,7 @@ justify-content: space-between;
   margin-bottom: 24px;
   color: #14142b;
 }
-.subheader {
+.subhead {
   max-width: 520px;
   margin-left: auto;
   margin-right: auto;
@@ -116,7 +116,7 @@ justify-content: space-between;
   margin-top:0px;
   }
 .containerclassic {
-    max-width: 1320px;
+	max-width: 1320px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 24px;
@@ -140,7 +140,7 @@ justify-content: space-between;
   overflow: hidden;
   box-shadow: 0 20px 34px lightgrey;
 }
-.contentcardone {
+.content {
   padding: 46px 47px 46px 48px;
 }
 .cardlink {
@@ -150,3 +150,4 @@ justify-content: space-between;
   max-width: 100%;
   display: inline-block;
 }
+
