@@ -5,8 +5,8 @@
 	<ul class="link">
   	<a id="him" class="link" href="https://en.wikipedia.org/wiki/Columbo_(character)" style="text-decoration: none;"><h2 class="site-nav_heading" style="color: black;">Him</h2></a>
 	</ul>
-  <div class="headerwrap"></div>
-  <div class="navheadcontainer">
+  <div class="headerthree"></div>
+  <div class="nav">
 	<div class="numbertwo">
   	<div class="numberone">
     	<h1 class="title">monk time</h1>
@@ -46,7 +46,7 @@ IMG.displayed3 {
   margin-left: auto;
   margin-right: auto;
 }
-.headerwrap{
+.headerthree{
   justify-content: space-between;
   align-items: center;
   display: flex;
@@ -76,7 +76,7 @@ IMG.displayed3 {
   padding-left: 24px;
   padding-right: 24px;
 }
-.headerwrap{
+.headerthree{
 justify-content: space-between;
   align-items: center;
   display: flex;
