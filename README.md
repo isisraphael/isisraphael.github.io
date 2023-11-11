@@ -69,7 +69,7 @@ IMG.displayed3 {
   position: relative;
   padding: 12px 0 10px;
 }
-.navheadcontainer {
+.nav {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
@@ -110,41 +110,6 @@ justify-content: space-between;
   margin-left: auto;
   margin-right: auto;
 }
-.p {
-  color: #4e4b66;
-  margin-bottom: 20px;
-  margin-top:0px;
-  }
-.containerclassic {
-	max-width: 1320px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 24px;
-  padding-right: 24px;
-}
-.listgrid {
-  grid-row-gap: 40px;
-  grid-template-rows: auto;
-  grid-template-columns: 1fr;
-  grid-auto-columns: 1fr;
-  grid-auto-flow: row;
-  align-content: stretch;
-  margin-top: 59px;
-  display: grid;
-}
-.cardone {
-  display: flex;
-  background-color: #99a0bb;
-  border-radius: 20px;
-  position: relative;
-  overflow: hidden;
-  box-shadow: 0 20px 34px lightgrey;
-}
-.content {
-  padding: 46px 47px 46px 48px;
-}
-.cardlink {
-  color: #dbd4d3;
   margin-bottom: 12px;
   text-decoration: none;
   max-width: 100%;
