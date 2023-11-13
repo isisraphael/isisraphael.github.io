@@ -25,11 +25,13 @@ IMG.displayed2 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto
-  }
+	border-style: dotted;
+}
 IMG.displayed3 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto
+	border-style: dotted;
 }
 .body {
   color: #4e4b66;
@@ -110,9 +112,5 @@ justify-content: space-between;
   margin-left: auto;
   margin-right: auto;
 }
-  margin-bottom: 12px;
-  text-decoration: none;
-  max-width: 100%;
-  display: inline-block;
-}
+
 
