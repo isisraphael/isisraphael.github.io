@@ -39,12 +39,12 @@ IMG.displayed3 {
 .body {
   color: #4e4b66;
   font-family:andalus;
-  font-size: 18px;
-  line-height: 1.667em;
+  font-size: 30px;
+  line-height: 20px;
 }
 .header {
   background-color: #b9b4b3;
-  padding:24px;
+  padding: 36px;
   position: relative;
   margin-top: 0;
   max-width: 1000px;
@@ -64,12 +64,12 @@ IMG.displayed3 {
   display: flex;
   float: right;
   align-items: center;
-  font-size: 15px;
+  font-size: 25px;
   margin-right: 5%;
 }
 .link {
   padding: 30px 0;
-  margin-left: 1.25em;
+  margin-left: 20px;
   display: inline-block;
   position: relative;
   padding: 12px 0 10px;
@@ -102,11 +102,11 @@ justify-content: space-between;
 }
 .title {
   text-align: center;
-  letter-spacing: .01em;
+  letter-spacing: 1px;
   font-size: 74px;
   font-weight: 700;
-  line-height: 1.115em;
-  margin-top: 0;
+  line-height: 20px;
+  margin-top: 2px;
   margin-bottom: 24px;
   color: #14142b;
 }
