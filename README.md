@@ -41,6 +41,7 @@ IMG.displayed3 {
   font-family:andalus;
   font-size: 30px;
   line-height: 20px;
+  cursor:url"https://github.com/isisraphael/isisraphael.github.io/assets/145406506/3746efaa-03de-4d99-8b26-6a4cb151932e";
 }
 .header {
   background-color: #b9b4b3;
