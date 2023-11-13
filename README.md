@@ -20,18 +20,21 @@
 	margin-left: auto;
 	margin-right: auto;
 	border-style: dotted;
+	border-color: #de2618;
 }
 IMG.displayed2 {
 	display: block;
 	margin-left: auto;
-	margin-right: auto
+	margin-right: auto;
 	border-style: dotted;
+	border-color: #de2618;
 }
 IMG.displayed3 {
 	display: block;
 	margin-left: auto;
-	margin-right: auto
+	margin-right: auto;
 	border-style: dotted;
+	border-color: #de2618;
 }
 .body {
   color: #4e4b66;
